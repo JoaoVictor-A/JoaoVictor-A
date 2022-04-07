@@ -1,7 +1,7 @@
 ### Olá! Eu sou João Victor
 
 - 🔭 Atualmente não exerço nehuma função no mercado de trabalho
-- 🌱 Estudando Pyhton, Java, Html e Css
+- 🌱 Estudando Java, Html e Css
 - 📫 E-mail de contato: joaoanjos999@gmail.com
 
 <div>
