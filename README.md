@@ -1,6 +1,6 @@
 ### Olá! Eu sou João Victor
 
-- 🌱 Estudando Java, HTML e CSS
+- 🌱 Stacks desenvolvidas Java, HTML e CSS
 - 📫 E-mail de contato: joaoanjos999@gmail.com
 
 <div>
