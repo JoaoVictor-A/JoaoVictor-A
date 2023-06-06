@@ -15,8 +15,6 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Joao-gif" height="97" 
-src="https://user-images.githubusercontent.com/68818428/134198894-b19687cb-4734-42d0-b994-3b246785ca1a.gif")
 </div>
   
   ##
